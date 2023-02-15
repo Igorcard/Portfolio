@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1669246396 source:g:\pim\pim\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1668553282 g:\pim\pim\funcoes.h
+
+1668553418 source:g:\pim\pim\funcoes.c
+
+1669247858 source:d:\pim\pim\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1667425300 d:\pim\pim\funcoes.h
+
+1667513954 source:d:\pim\pim\funcoes.c
+	"funcoes.h"
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdbool.h>
+
+1667422308 g:\pim\pim\funcoes.c
+	"funcoes.h"
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdbool.h>
+
+1667425148 source:g:\pim\pim\teste.c
+	"funcoes.h"
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdbool.h>
+
